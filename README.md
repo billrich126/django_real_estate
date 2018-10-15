@@ -1,4 +1,6 @@
 # django_real_estate
 Django project for real estate web-app
 _______________________________________________________
-__work in progress__
+
+Django==2.1.2
+Pillow==5.3.0
