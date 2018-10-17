@@ -1,6 +1,10 @@
-## django_real_estate
-Django project for real estate web-app
-_______________________________________________________
+# django_real_estate
+
+## Django project for real estate web-app
+
+____________________________
+
+requirements:  
 
 package | version
 ------------ | -------------
