@@ -1,6 +1,6 @@
 # django_real_estate
 
-## Django project for real estate web-app
+## Django project for realestate web-app
 
 ____________________________
 
