@@ -4,6 +4,9 @@
 
 ____________________________
 
+```To do list:```
+Publish app to a server
+
 requirements:  
 
 package | version
