@@ -6,6 +6,10 @@ ____________________________
 
 ### **server available at** http://104.248.242.35:8000
 
+____________________________
+
+Works on NGINX and Postgress
+
 ### requirements:  
 
 package | version
