@@ -4,10 +4,9 @@
 
 ____________________________
 
-```To do list:```
-Publish app to a server
+### **server available at** http://104.248.242.35:8000
 
-requirements:  
+### requirements:  
 
 package | version
 ------------ | -------------
